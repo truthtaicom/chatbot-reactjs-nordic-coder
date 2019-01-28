@@ -1,0 +1,7 @@
+.chatbot__message {
+    display: flex;
+}
+
+.chatbot__message--user {
+    justify-content: flex-end;
+}

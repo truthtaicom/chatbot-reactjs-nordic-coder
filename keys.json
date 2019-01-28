@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "chat-bot-reactjs",
+    "private_key_id": "6a028eceec3ca8d4ba6b3fe31300a78941654d88",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCKQfMS61k+G0+w\nq+J2qAVIdQN01x8HoyqtVsZVCRmhTWZpMwHeUG80mmrS4xLykMWdnX4Oo4z6TKR9\ndU2ewRQsFuTy6TelNzIosGULQYNtAJk329KhtCf4SlRxISKF/GbNiQHis/IhrFuL\n0ecCjDH2GrjGUQlDuXFSoToM11dxxAs9GdEweTy4iHFu9rxHA3gXM0aGkT+ppIAQ\ncGM32M6RNswf+kZarzBIVPosupQFqQJXRVk53kGQGJhOsnNOaZAU9K2/AqJ6EkD0\nmnelok2bvbwhJYHFQecwLN0lCUD5olO+z/FqOrNsndJO85X5V4Dpc3Sxc5tnQTVP\nwWmhbxj5AgMBAAECggEAGFRiLsxhHDuIor2goMJRCa7jwJIhmQG23yGDzc+H5dl9\nwdnyxHkxlJdu4HUKrspYqDOgjPltc9d8Y8J6egsenmKaAAAX5XhI2J2v7lLlSo9+\nJvUFRCT0mq4T3YOX9G2V9qnbPdZuL8xJoNl7djiPCzCpHucAQx11SnXqRfu4HOIB\nY/jE7/JDyv/bRCmDIbBeXUOhGvGV1ay96CUf5WKWR73m8QpuENyTElM+5hVMcIQA\nukBWAtKoJL7ySMjGpZv4q8tQ8oQoOBSYyExzVlQvP3jqG5lW48v1Y/0QrsICgwiz\nKo1ThD0MD6HoPf4caQS9j5De9i9CHhEOVuOO4VHJrQKBgQC9w3sytgQ2zIwV/yCL\naP4DnCe4HwBAO3nl4ylMNPmF95uRzGtudRYXcuYhv+kIJsinMRtugQO9yIHi/sQy\nEIMIrD8WRPjn9Td8z9ONaIiMhDJZJyauFsd3b7eWSGoO8SoJhNaqym3v94NJ7cRz\nYSMkxUus0tSoCk4xkR4+WosdFQKBgQC6hBlRkHHo/3pANgWyzWUvzys5X/Q0OiwZ\nSegLTqqdsWdb4/klQqRWB4JoXS/f8sciVYbNfWNMJiBjduAIgdQINeedQ06vmRYU\n1DMs7OIi5wckbzHU8DE2ogJsHnNFei2fqknaEhmHBqBqRU6f6gFNtiU0iAz7tpoM\na20bMortVQKBgQCdW2FovsilzF6JywLot8qTocTKCGMD4I4HlKRlPjR/48CMWU/o\ny4zjKvMsn2AU01xmT/FoY/F/SapzWkHFJi4SXgr+Y3lnl89IX2oVA87ffqvlg/Ku\nP9Nt9iTtqOTRuSfbttzvyWb6q2uiPVk/OBiVYEmNaVLQeaM3tRe4KwratQKBgQCk\nLNj4cbPCyvZ6BNNZQvB5d9rtQuf6/OWKUQK+yTznV5vKR84rnRB4ZV3FrZkRgGsG\nbtAcmu1HvxutUZr8AgN4QrKgO/nMGW1VYj+1oMGgxUkFKhdr/wzisRJ+xwLiOhxk\nuYkOOfZcY1nakS0XF+yT0evH5KXA/0dz/S9pzEB7jQKBgGflNBGYuFEieCxNTtMT\nekIed+GtcmrYrAEgYs9tsbUepF8QlmkpjdOqnsNx5NaMBvt+xuY7gfTs/23lbZgA\n7NlltEHAhASizJHDjKVyPq45CjtG2Toqd0z5tk4rt8zHDS6nZCth9ly87CvYKfNU\nX8VRQoW8zJQdMkT7anMQ5iYv\n-----END PRIVATE KEY-----\n",
+    "client_email": "chatbot-reactjs-admin@chat-bot-reactjs.iam.gserviceaccount.com",
+    "client_id": "106909423860907955468",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-reactjs-admin%40chat-bot-reactjs.iam.gserviceaccount.com"
+  }
+  

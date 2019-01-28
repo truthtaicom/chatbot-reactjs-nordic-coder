@@ -1,0 +1,22 @@
+.chatbot__input-text {
+    padding: 10px;
+    background: #008dff33;
+    border: 1px solid #bae7ff;
+    border-top: 0;
+}
+
+.chatbot__input-text > .ant-form {
+    display: flex;
+}
+
+.chatbot__input-text > .ant-form > .ant-form-item:first-child {
+    flex: 1;
+}
+
+.chatbot__input-text > .ant-form > .ant-form-item:last-child {
+    margin-right: 0;
+}
+
+.chatbot__input-text > .ant-form > .ant-form-item:first-child  > .ant-form-item-control-wrapper {
+    width: 100%;
+}

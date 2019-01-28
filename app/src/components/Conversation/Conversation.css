@@ -1,0 +1,9 @@
+.chatbot {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #bae7ff;
+    padding: 10px;
+}
